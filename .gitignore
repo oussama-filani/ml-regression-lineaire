@@ -1,0 +1,35 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous files
+*.log
+*.bak
+*.swp
+*.swo
+*.opyn
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# dotenv environment variables file
+.env
